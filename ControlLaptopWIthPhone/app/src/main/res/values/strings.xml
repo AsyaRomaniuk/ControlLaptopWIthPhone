@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ControlLaptopWithPhoneClient</string>
+    <string name="label">Керування ноутбуком за допомогою телефона</string>
+    <string name="hint">Введіть команду на мові Python:</string>
+    <string name="button">Виконати</string>
+    <string name="ip">Введіть ipv4</string>
+</resources>
